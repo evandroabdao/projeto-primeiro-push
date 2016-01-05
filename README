@@ -1,6 +1,11 @@
-#Criacao do projeto "projeto-primeiro-push" no github
-#Criacao da pasta "projeto-primeiro-push" no meu servidor linux
-git init
-git add README
-git commit -m "Primeiro Commit"
+1. #Criacao do projeto "projeto-primeiro-push" no github
+2. #Criacao da pasta "projeto-primeiro-push" no meu servidor linux
+3. git init
+4. vi README
+5. git status
+6. git add README
+7. git commit -m "Primeiro Commit"
+8. vi README #Adicionando Markdown list
+9. git add README
+10. git commit -m "Segundo Commit"
 
