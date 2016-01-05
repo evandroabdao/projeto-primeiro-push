@@ -8,4 +8,8 @@
 8. vi README #Adicionando Markdown list
 9. git add README
 10. git commit -m "Segundo Commit"
-
+11. vi README #Adicionado comando para linkar o endereco remoto
+12. git add README
+13. git commit -m "Terceito Commit"
+14. git remote add origin https://github.com/evandroabdao/projeto-primeiro-push.git
+15. git push -u origin master
