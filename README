@@ -1,0 +1,6 @@
+#Criacao do projeto "projeto-primeiro-push" no github
+#Criacao da pasta "projeto-primeiro-push" no meu servidor linux
+git init
+git add README
+git commit -m "Primeiro Commit"
+
